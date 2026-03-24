@@ -1,0 +1,18 @@
+Name: Neha D S Jain
+Role: Computer Science Student & Aspiring Frontend Developer
+Email: neha@example.com
+
+EDUCATION
+-------------------------
+University Name
+Bachelor of Computer Science (Expected 2027)
+- Coursework: Web Technologies, Data Structures, Algorithms
+
+EXPERIENCE
+-------------------------
+Frontend Web Developer Intern/Student (2023 - Present)
+- Building modern web applications, UI clones, and interactive portfolios.
+
+SKILLS
+-------------------------
+HTML, CSS, JavaScript, React, Styled-Components, Git
